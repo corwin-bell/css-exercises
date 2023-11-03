@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   padding: 8px;
 }
@@ -23,14 +23,6 @@ ul {
   display: flex;
   gap: 8px;
 }
-
-.left-links {
-  margin-right: auto;
-}
-
-.right-links {
-  margin-left: auto;
-  }
   
 a {
   font-size: 22px;
