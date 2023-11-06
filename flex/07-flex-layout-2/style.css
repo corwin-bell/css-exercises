@@ -23,12 +23,12 @@ ul {
 }
 
 .header {
-  /* height: 72px; */
+  height: 72px;
   background: darkmagenta;
   color: white;
   font-size: 32px;
   font-weight: 900;
-  padding: 16px;
+  padding: 0 16px;
   display: flex;
   align-items: center;
 }
